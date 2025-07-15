@@ -1,4 +1,4 @@
-# 🧠 Skills Flexed
+# 🧠 Hard Skills Flexed
 
 `Python` • `Flask` • `HTML` • `CSS` • `Vanilla JS` • `Client-Ready UX` • `Jinja2`
 `File I/O` • `Drive-based Storage` • `SHA-256 Hashing` • `Modals`
@@ -6,6 +6,14 @@
 `PyInstaller Deployment` • `No Framework, No BS`
 
 ---
+| Icon | Skill                          | Description                                        |
+| ---- | ------------------------------ | -------------------------------------------------- |
+| 💬   | **Professional Communication** | Client-facing updates, no jargon, just clarity     |
+| 🧩   | **Problem-Solving Mindset**    | Breaks complexity into deliverable parts           |
+| 🛠️  | **End-to-End Ownership**       | From planning to deployment — no handoffs          |
+| 🧠   | **Strategic Thinking**         | Builds what’s *needed*, not what just *looks good* |
+| 🤝   | **Client-Centric Delivery**    | Respects client needs, deadlines, and priorities   |
+
 
 # ⚙️ autoteknic-docs-system 🗂️
 
