@@ -1,74 +1,106 @@
-# autoteknic-docs-system 🗂️
+# 🧠 Skills Flexed
 
-> Built for Autoteknic. Delivered as promised.  
-> Not a concept. Not a prototype. A fully deployed system that does what it’s supposed to — with precision.
+`Python` • `Flask` • `HTML` • `CSS` • `Vanilla JS` • `Jinja2`
+`File I/O` • `Drive-based Storage` • `SHA-256 Hashing` • `Modals`
+`Drag & Drop Uploads` • `Smart Folder Structuring` • `Custom ZIP Export`
+`PyInstaller Deployment` • `Client-Ready UX` • `No Framework, No BS`
+
+---
+
+# ⚙️ autoteknic-docs-system 🗂️
+
+> *Built for **Autoteknic**. Delivered without drama.*
+> Not on GitHub to show off — but to prove it got shipped, used, and loved.
+
+---
 
 ## 💼 The Project
 
-Some people build portfolios.  
-I build systems that go live.
+Everyone builds portfolios.
+**I build working systems.**
 
-This is a **freelance-developed, full-stack document management system** for **Autoteknic**, crafted to organize chaos, streamline internal workflows, and eliminate friction from technical documentation.
+This is a **real-world document management platform** designed for **Autoteknic**, a technical services company tired of playing digital hide-and-seek with files.
 
-- **Built solo. End-to-end.**
-- **Designed to scale.**
-- **Packaged to deploy.**
+What did I give them?
 
-No noise. No dependencies. Just results.
+* A clean UI.
+* A ruthless backend.
+* A plug-and-run `.exe` they didn’t have to think twice about.
 
-## 🔧 Stack That Does the Job
-
-| Layer        | Tech Used                              |
-|--------------|----------------------------------------|
-| Frontend     | HTML5, CSS3, Vanilla JS                |
-| Backend      | Python (Flask), Jinja2 Templates       |
-| System Logic | `os`, `zipfile`, Smart Folder Mapping  |
-| Deployment   | `.exe` via PyInstaller – plug & run    |
-
-> You don’t need Python installed. You don’t need internet.  
-> You just need to double-click. That’s how you build for the real world.
+I didn't pitch slides.
+I pitched **results**.
 
 ---
 
-## 🧠 What It Does
+## 🔧 The Stack
 
-✔️ Single admin login — tight and local.  
-📁 Auto-generated project folders by customer + serial.  
-📥 Upload modal with live checklist tracking.  
-🔍 Instant search by serial or project name.  
-📦 ZIP export — ready for email or archive.  
-🌓 Dark mode toggle — sharp and usable.  
-🎨 Frontend-swappable — update UI without breaking logic.
+| Layer       | Tech Used                                     |
+| ----------- | --------------------------------------------- |
+| 🎯 Frontend | HTML5, CSS3, Vanilla JavaScript               |
+| 🔩 Backend  | Python (Flask), Jinja2 Templates              |
+| 🧠 Logic    | `os`, `json`, `hashlib`, `shutil`, `datetime` |
+| 📦 Deploy   | One-click `.exe` via PyInstaller              |
 
----
-
-## 🔒 The Code
-
-You won’t find the code here.  
-Because I don’t release client IP — I respect who I build for.
-
-But if you’re serious and want to see what it can do:
-
-- 👨‍💻 Developer: [adityagchavan3@gmail.com](mailto:adityagchavan3@gmail.com)  
-- 🏢 Client (Autoteknic): [autoteknic.services@gmail.com](mailto:autoteknic.services@gmail.com)
-
-Ask for a walkthrough.  
-Ask for the .exe.  
-Ask the client.
+> **Zero dependencies. Zero runtime drama.**
+> No Python? No internet? Still works.
+> That's how you build for people who need results, not readme files.
 
 ---
 
-## 🥶 Final Word
+## 🧠 What It Actually Does
 
-You don’t need paragraphs to explain what works.  
-You just need one thing: delivery.
-
-> I don’t over-engineer. I don’t overpromise.  
-> I execute.
+| Feature                                          | Why It Exists                                                  |
+| ------------------------------------------------ | -------------------------------------------------------------- |
+| 🧑‍💻 **Local Admin Only**                          | Because not everything needs a login page from 2007.           |
+| 📁 **Customer + Project + Doc Type Structure**   | Keeps engineers from losing their minds.                       |
+| 📥 **Upload Modal + Checklist UI**               | Upload once, see what’s missing, feel in control.              |
+| 🔍 **Search by Serial/Project Name**             | Because “Where did we save that?” should never be asked again. |
+| 🗂️ **Auto Folder Creation**                      | Just type and it builds the path for you.                      |
+| 🔒 **SHA-256 Hashing + MIME Type Detection**     | File integrity and smart type checking — baked in.             |
+| 📦 **ZIP Export for Full Projects**              | One-click archive. Email-ready.                                |
+| 🌓 **Dark Mode Toggle**                          | Because documentation shouldn't blind you.                     |
+| 🔁 **Frontend Swappable Without Breaking Logic** | Change how it looks, not how it works.                         |
 
 ---
 
-**Harvey said it best**:  
-_"I don’t play the odds. I play the man."_  
-And when the man builds systems that work — you don’t need luck.
+## 🎯 Why This Isn’t Just Another “App”
+
+Because I didn’t build this for likes.
+I built it for **a real business** with **real problems** and **no time to babysit software**.
+
+📍 **Offline-first**
+📍 **Drive-specific**
+📍 **Error-proof**
+📍 **Client-deployable**
+📍 **No framework addiction**
+
+---
+
+## 🔒 The Code? Not Here.
+
+I don’t leak client IP.
+That’s the difference between freelancers and professionals.
+
+If you want a walkthrough or demo:
+
+* 📨 [adityagchavan3@gmail.com](mailto:adityagchavan3@gmail.com) — Developer
+
+> Want the `.exe`? Ask.
+> Want to see it live? Ask.
+> Want a clone for your team? You know what to do.
+
+---
+
+## 🥶 Closing Argument
+
+> I don’t overbuild.
+> I don’t oversell.
+> I **deliver**.
+
+And if you’re still scrolling, remember:
+
+> ***“Winners don’t make excuses. They make money.”*** – Harvey Specter
+
+Now go manage some documents.
+Or better yet, let me build the system for you.
 
