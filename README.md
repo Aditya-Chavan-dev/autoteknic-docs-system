@@ -1,9 +1,9 @@
 # 🧠 Skills Flexed
 
-`Python` • `Flask` • `HTML` • `CSS` • `Vanilla JS` • `Jinja2`
+`Python` • `Flask` • `HTML` • `CSS` • `Vanilla JS` • `Client-Ready UX` • `Jinja2`
 `File I/O` • `Drive-based Storage` • `SHA-256 Hashing` • `Modals`
 `Drag & Drop Uploads` • `Smart Folder Structuring` • `Custom ZIP Export`
-`PyInstaller Deployment` • `Client-Ready UX` • `No Framework, No BS`
+`PyInstaller Deployment` • `No Framework, No BS`
 
 ---
 
