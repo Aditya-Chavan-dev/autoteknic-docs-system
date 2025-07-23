@@ -65,7 +65,6 @@ I pitched **results**.
 | 🔍 **Search by Serial/Project Name**             | Because “Where did we save that?” should never be asked again. |
 | 🗂️ **Auto Folder Creation**                      | Just type and it builds the path for you.                      |
 | 🔒 **SHA-256 Hashing + MIME Type Detection**     | File integrity and smart type checking — baked in.             |
-| 📦 **ZIP Export for Full Projects**              | One-click archive. Email-ready.                                |
 | 🌓 **Dark Mode Toggle**                          | Because documentation shouldn't blind you.                     |
 | 🔁 **Frontend Swappable Without Breaking Logic** | Change how it looks, not how it works.                         |
 
